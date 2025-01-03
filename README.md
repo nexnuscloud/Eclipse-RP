@@ -1,42 +1,61 @@
-<p align="center">
-  <a href="https://spicydevs.js.org" target="_blank"> 
-    <img src="https://oyepriyansh.pages.dev/i/sd.png" height="80">
-  </a>
-</p>
+# Eclipse RP
 
-<p align="center">Welcome to SpicyDevs - Where Developers Thrive!</p>
+Welcome to **Eclipse RP**, a community-driven multiplayer roleplaying server for **FiveM**. This README provides essential information about our project, including how to contribute, set up, and follow the rules for a better experience.
 
-<p align="center">
-  <a href="https://github.com/SpicyDevs/spicydevs.js.org/issues">
-  <img alt="GitHub issues" src="https://img.shields.io/github/issues/SpicyDevs/spicydevs.js.org">
-  </a>
-  <a href="https://github.com/SpicyDevs/spicydevs.js.org/forks">
-  <img alt="GitHub forks" src="https://img.shields.io/github/forks/SpicyDevs/spicydevs.js.org">
-  </a>
-  <a href="https://github.com/SpicyDevs/spicydevs.js.org/stargazers">
-  <img alt="GitHub stars" src="https://img.shields.io/github/stars/SpicyDevs/spicydevs.js.org">
-  </a>
-  <a href="https://github.com/SpicyDevs/spicydevs.js.org/blob/main/LICENSE.txt">
-  <img alt="GitHub license" src="https://img.shields.io/github/license/SpicyDevs/spicydevs.js.org">
-  </a>
-</p>
+## About Eclipse RP
 
-## About SpicyDevs
+Eclipse RP is an immersive roleplaying server built on **FiveM**, where players can experience a wide range of scenarios from crime syndicates, law enforcement, to business management. Our mission is to provide a fun, dynamic, and immersive roleplaying experience while maintaining a strong sense of community.
 
-SpicyDevs is not just a community; it's a haven for developers, a place to embrace coding, and a launchpad for exciting projects. We believe in fostering a welcoming environment where developers of all levels can connect, collaborate, and grow together. Whether you're a seasoned coder or just starting, there's a place for you in our diverse community.
+## Features
 
-## 👨‍💻 SpicyDevs Website
+- **Custom Scripts**: We have custom scripts that enhance gameplay and roleplay scenarios.
+- **Active Community**: Engage with our vibrant community on Discord and within the server.
+- **Dedicated Support**: Need help? Our support team is available to assist you.
 
-Explore more about our community and the projects we've undertaken on our [website](https://spicydevs.js.org/).
+## Server Information
 
-## Connect with Us
+- **Server Name**: Eclipse Survival RP
+- **Server IP Address**: `103.1.215.85:3918`
+- **Game Mode**: Roleplay
+- **Platform**: FiveM
 
-Join our vibrant community on Discord!
+## Getting Started
 
-<a href="https://discord.com/invite/2aAdfJHSWR">
-  <img src="https://invidget.switchblade.xyz/2aAdfJHSWR" alt="Discord Server">
-</a>
+To get started with **Eclipse RP**, you will need **FiveM** and access to our server:
+
+1. Install **FiveM** from [here](https://fivem.net/).
+2. Join the **Eclipse RP** server using the IP address provided above.
+3. Follow the rules and respect the community guidelines to ensure a great roleplaying experience.
+
+## Rules
+
+Please ensure you read and follow our server rules to maintain a positive experience for all players. The rules can be found in our [Rules Section](https://eclipserp.js.org/rules).
+
+### Example Rules:
+
+1. **Respect All Players**: No harassment or bullying.
+2. **No Cheating**: Exploiting or cheating is strictly prohibited.
+3. **Roleplay Quality**: Engage in realistic and immersive roleplay scenarios.
+
+## Contributing
+
+We welcome contributions to **Eclipse RP**! Here’s how you can help:
+
+1. Fork the repository and clone it to your local machine.
+2. Create a new branch and work on your improvements.
+3. Submit a pull request with detailed descriptions of your changes.
+
+## Contact
+
+For any inquiries, support requests, or questions, feel free to reach out to our support team at:
+
+- **Email**: [support@ttvleeroy.com](mailto:support@ttvleeroy.com)
+- **Discord**: [Join us on Discord](https://discord.gg/ftufemzsMZ)
 
 ## License
 
-SpicyDevs is open-source and is licensed under the [MIT License](https://github.com/SpicyDevs/spicydevs.js.org/blob/main/LICENSE.txt).
+Eclipse RP is open source under the [MIT License](LICENSE).
+
+---
+
+Thank you for being a part of Eclipse RP, and we hope you have a great time roleplaying with us!
